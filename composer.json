@@ -1,0 +1,1 @@
+{\n    "name": "laravel-project",\n    "description": "A Laravel project",\n    "require": {\n        "php": "^7.3|^8.0",\n        "laravel/framework": "^8.0"\n    },\n    "minimum-stability": "dev",\n    "prefer-stable": true\n}
